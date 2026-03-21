@@ -6,6 +6,8 @@
   <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jon-Donovan/Jon-Donovan/snake-game/github-contribution-grid-snake.svg">
 </picture>
 
+<br clear="right"/>
+
 ---
 
 ### 🧠 Behind these icons are hands-on experience, architecture, and production-ready solutions
