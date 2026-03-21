@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jon-Donovan/Jon-Donovan/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jon-Donovan/Jon-Donovan/output/github-snake.svg">
+  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jon-Donovan/Jon-Donovan/snake-game/github-contribution-grid-snake.svg">
+</picture>
 <!--
 **Jon-Donovan/Jon-Donovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
