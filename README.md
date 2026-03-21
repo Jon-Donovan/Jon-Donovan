@@ -10,7 +10,7 @@
 
 ### 🧠 Behind these icons are hands-on experience, architecture, and production-ready solutions
 
-![Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,kafka,bash,powershell,git,github,gitlab,bitbucket,githubactions,mongodb,mysql,postgres,sqlite,redis,elasticsearch,graphql,postman,html,css,js,htmx,sass,bootstrap,flutter,php,cpp,ts,py,lua,dart,regex,md,django,symfony,dotnet,nodejs,linux,ubuntu,windows,bsd,vscode,visualstudio,idea,phpstorm,pycharm,webstorm)
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,kafka,bash,powershell,git,github,gitlab,bitbucket,githubactions,mongodb,mysql,postgres,sqlite,redis,elasticsearch,graphql,postman,html,css,js,htmx,sass,bootstrap,flutter,php,cpp,ts,py,lua,dart,regex,md,django,symfony,dotnet,nodejs,linux,ubuntu,windows,bsd,vscode,visualstudio,idea,phpstorm,pycharm,webstorm)](https://github.com/Jon-Donovan)
 
 <!--
 **Jon-Donovan/Jon-Donovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
